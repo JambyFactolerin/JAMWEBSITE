@@ -1,0 +1,113 @@
+body{
+    font-family: arial;
+}
+.homesection, .hoby, .ani, .manga, .collection, .another, .MANGA, .HOBBYQUOTE, .intro{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+}
+
+.intro, .int, .intruc, .wind, .ele, .yourlie, .demon, .qoute, .qoute1, .qute1, .qute2, .qute3, .seemore{
+    width: 500px;
+    font-family: arial;
+    font-size: 18px;
+}
+.intro{
+   margin-bottom: 30px;
+}
+.pic2{
+    border-radius: 250px;
+}
+.homesection{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.ANIME, .man{
+    display: flex;
+     flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    text-wrap: wrap;
+
+ }
+ .h1{
+    color: #e6b197;
+ }
+ #collection, #aboutme{
+    background-color: #e6b197;
+    padding-bottom: 50px;
+ }
+ .hoby{
+    text-align: center;
+    color: #e6b197;
+ }
+ .hoby1, .hoby2, .hoby3, .hoby4{
+    border-radius: 200px;
+ }
+ .logo{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+ }
+ .me{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+ }
+ .info{
+     display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    color: white;
+ }
+ .logoo{
+   border-radius: 40px;
+ }
+ .web{
+   color: #e6b197;
+ }
+ .MANGA{
+   margin:bottom 0px;
+ } 
+.menu1, .menu2, .menu3, .menu4{
+   text-decoration: none;
+   color: #e6b197;
+   padding: 8px 12px;
+   transition: all 0.08s;
+ }
+ .menu1:hover, .menu2:hover, .menu3:hover, .menu4:hover{
+   text-decoration: none;
+   color: white;
+   background-color: #e6b197;
+   padding: 8px 12px;
+   border-radius: 6px;
+   box-shadow: 0px 0px 2px rgb(244, 204, 204);
+ }
+ .seemore{
+   text-decoration: none;
+   color: #e6b197;
+   padding: 8px 12px;
+   transition: all 0.08s;
+   background-color: white;
+   border-radius: 6px;
+   border: 1px solid #e6b197;
+ }
+  .seemore:hover{
+   color: white;
+   padding: 8px 12px;
+   transition: all 0.08s;
+   background-color: #e6b197;
+   border-radius: 6px;
+ }
+ 
+
+
+  
